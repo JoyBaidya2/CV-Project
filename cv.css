@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+.joy{
+    background-color: rgba(175, 238, 238, 0.525);
+    margin:0 auto;
+    max-width: 1000px;
+    padding: 15px;
+   
+   
+   
+}
+.im{
+    
+    height: 150px;
+    width: 120px;
+    border: white solid;
+    border-radius: 50%;
+    float: left;
+    
+
+}
+
+.hh{
+    float: left;
+    padding: 40px;
+    
+}
+hr{
+    border: solid black 3px;
+    border-bottom: none;
+    margin: 0 auto;
+   margin: 20px auto;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.pp {
+   padding: 50px;
+   float: right;
+ 
+}
+.pp p a{
+    text-decoration: none;
+    color: #11999e;
+    font-weight: bold;
+}
+.pp p a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.jjj{
+    clear: both;
+}
+
+.ps{
+   
+    width: 30%;
+    float: left;
+}
+
+.pp2{
+    float: right;
+    
+    width: 70%;
+}
+.cle{
+    clear: both;
+}
+.hp{
+    font-weight: bold;
+}
+.w{
+   width: 30%;
+    float: left;
+}
+.w1{
+    float: right;
+    width: 70%;
+   
+   
+}
+.p5{
+    
+    float: right;
+    width: 70%;
+  
+}
+.hp{
+    border: solid black 1px;
+    border-bottom: none;
+}
+.w2{
+    padding-top: 20px;
+}
+.dd{
+    clear: both;
+}
+
+.ky{
+    width: 30%;
+    float: left;
+}
+.co{
+    width: 70%;
+    float: right;
+  
+}
+.co ul {
+    float: 70%;
+}
+.co1{
+    width: 70%;
+    float: right;
+  padding-top: 20px;
+}
+.ds{
+    clear: both;
+}
+.ed{
+    float: left;
+    width: 30%;
+}
+.bbs{
+    float: right;
+    width: 35%;
+
+}
+.mms{
+    float: right;
+    width: 35%;
+}
+.p6{
+    font-weight: bold;
+}
+.dfg{
+    clear: both;
+}
+.ho{
+float: left;
+width: 30%;
+
+
+}
+.uu{
+    float: right;
+    width: 70%;
+
+}
+.ii{
+    clear: both;
+}
+.rss{
+    float: left;
+    width: 30%;
+}
+.md{
+    width: 35%;
+    float: right;
+}
+.ru{
+    width: 35%;
+    float: right;
+}
+.ik{
+    clear: both;
+}
+.fb{
+   max-width: 1000px;
+   background-color: black;
+   text-align: center;
+   padding: 10px;
+   
+  
+}
+.fb a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+
+}
+.fb a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.fb p{
+    color: white;
+    padding-top: 10px;
+}
